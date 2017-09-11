@@ -14,3 +14,8 @@ A Python application which shows the list of latest movies of 2017. The site con
 * **media** Contains the Movie class which is the model of our app.
 * **fresh_tomatoes** Helper class that displays the website and handle data.
 * **entertainment_center** The main class which loads all data from url and commands *fresh_tomatoes* class to open.
+
+## Screenshots
+![Website](/screenshots/website.png?raw=true)
+
+![Trailer](/screenshots/website-trailer.png?raw=true)
