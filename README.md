@@ -1,6 +1,6 @@
 # MovieTrailerWebsite
 
-A Python application which shows the list of latest movies of 2017. The site contains movie title, description, poster and trailer. It uses the api provided by themoviedb. This is a foundation in core programming concepts using Python. 
+A Python application which shows the list of latest movies of 2017. The site contains movie title, description, poster and trailer. It uses the api provided by [themoviedb](https://www.themoviedb.org/). This is a foundation in core programming concepts using Python. 
 
 ## How to use this application?
 
